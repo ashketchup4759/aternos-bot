@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ketchup475.aternos.me:",
+    "ip": "ketchup475.aternos.me:25674",
     "port": 25674,
     "version": "",
     "try-creative": false
